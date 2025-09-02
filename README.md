@@ -3,7 +3,7 @@
 
 A **comprehensive Hospital Management System** built with **Python Streamlit** and **MySQL**, designed to efficiently manage **patients, doctors, appointments, and appointment history** with a user-friendly interface.
 
-## **Features**
+## Features
 
 -  Add, update, delete, and search **Patients**  
 -  Add, update, delete, and search **Doctors**  
@@ -13,7 +13,7 @@ A **comprehensive Hospital Management System** built with **Python Streamlit** a
 
 ---
 
-## ** Technologies Used**
+## Technologies Used
 
 - **Python 3.11**  
 - **Streamlit** for interactive frontend  
@@ -22,7 +22,7 @@ A **comprehensive Hospital Management System** built with **Python Streamlit** a
 
 ---
 
-## ** Installation & Setup**
+##  Installation & Setup
 
 1. **Clone the repository:**
 
